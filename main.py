@@ -1,7 +1,8 @@
 def hello():
-  print("Hello im Erdenay")
-  
-def wrongHello():
- print("Hi, im the wrong one")
+  print("I am Erdenay")
+
+def fixedHello():
+  print("yeah im okay now")
 
 hello()
+fixedHello()
